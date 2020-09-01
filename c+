@@ -1,0 +1,8 @@
+#include<iostream>
+
+int main()
+{
+ int ar_count=5;
+  vector<int> ar(ar_count);
+  std::cout<< ar[0];
+}
